@@ -1,2 +1,3 @@
 # shamine-pwa-demo
-shamine's first pwa demo
+
+shamine's first progressive web application demo
